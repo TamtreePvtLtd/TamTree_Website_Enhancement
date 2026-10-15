@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 430" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Hand-drawn computer and technology doodles</title>
+  <desc id="desc">A loose sage-green sketch collage of a laptop, code, browser window, globe, cloud, email, chart and connected devices.</desc>
+  <g stroke="#829477" stroke-linecap="round" stroke-linejoin="round">
+    <!-- laptop, drawn by hand -->
+    <g stroke-width="3.2">
+      <path d="M250 112c1-7 6-11 13-11l192 2c7 0 12 5 12 12l-2 151c0 7-5 12-12 12l-193-2c-7 0-12-5-12-12l2-150Z"/>
+      <path d="M258 120c3-5 7-7 13-7l183 2-2 137-194-2V120Z" stroke-width="2.2"/>
+      <path d="m240 276 239 2 29 27c2 2 1 6-3 6l-290-3c-4 0-5-3-2-6l27-26Z" stroke-width="3"/>
+      <path d="m259 282 203 2m-188 7 18 0m15 0h19m15 0h20m15 0h19m15 0h20m-164 8h20m14 0h20m15 0h20m14 0h20m15 0h20m-106-22 1-5h42l-1 5" stroke-width="1.8"/>
+      <path d="M297 158h65m-65 16h88m-88 16h48m73-32h28m-28 16h28" stroke-width="2.5"/>
+      <path d="m299 223 13-12-13-12m38 0-13 12 13 12m21-24-9 24" stroke-width="2.8"/>
+      <circle cx="270" cy="122" r="2" stroke-width="2"/><circle cx="279" cy="122" r="2" stroke-width="2"/><circle cx="288" cy="122" r="2" stroke-width="2"/>
+    </g>
+
+    <!-- small browser / code card -->
+    <g stroke-width="2.7">
+      <path d="M69 84c0-6 5-10 11-10l103 1c6 0 10 4 10 10l-1 65c0 6-4 10-10 10l-103-1c-6 0-10-4-10-10l1-65Z"/>
+      <path d="m70 101 121 1m-100 17-11 9 11 8m13-17-7 17m18-17h47m-47 10h34" stroke-width="2.2"/>
+      <path d="m82 89 2 0m11 0h2m11 0h2" stroke-width="3.5"/>
+    </g>
+
+    <!-- cloud and small upload arrow -->
+    <g stroke-width="2.6">
+      <path d="M286 69c0-11 9-19 20-19 7-17 30-19 40-4 14-5 29 4 29 19 12 2 17 10 17 19H286c-10-1-14-8-14-15 0-9 6-16 14-17Z"/>
+      <path d="M333 82V64m-8 8 8-9 8 9m-34 15h67" stroke-width="2"/>
+    </g>
+
+    <!-- globe / network -->
+    <g stroke-width="2.8">
+      <circle cx="123" cy="239" r="39"/>
+      <path d="M84 239h78m-39-39c-12 12-18 25-18 39s6 28 18 39m0-78c12 12 18 25 18 39s-6 28-18 39m-31-59c20 8 43 8 63 0m-63 40c20-8 43-8 63 0" stroke-width="1.8"/>
+      <path d="m151 205 9-9m-80 79-8 8" stroke-width="2.2"/>
+    </g>
+
+    <!-- email / message -->
+    <g stroke-width="2.7">
+      <path d="M76 327c0-5 4-9 9-9l97 1c5 0 8 4 8 9l-1 53c0 5-4 9-9 9l-96-1c-5 0-9-4-9-9l1-53Z"/>
+      <path d="m79 326 53 39 56-38m-109 58 37-31m75 31-36-31" stroke-width="2.2"/>
+      <path d="m174 313 13-8 9 12" stroke-width="2"/>
+    </g>
+
+    <!-- gear / settings -->
+    <g stroke-width="2.8">
+      <path d="m571 79 8 2 5-8 10 2 2 9 7 4 8-4 7 8-4 8 2 8 8 4-2 10-9 2-4 7 3 9-8 6-8-5-8 2-4 8-10-2-2-9-7-4-8 4-7-8 4-8-2-8-8-4 2-10 9-2 4-7-3-9 8-6 8 5 8-2 4-8Z"/>
+      <circle cx="589" cy="110" r="13" stroke-width="2.3"/>
+    </g>
+
+    <!-- wifi and signal -->
+    <g stroke-width="2.7">
+      <path d="M546 207c22-21 59-21 81 1m-69 12c14-13 39-13 53 0m-41 13c8-7 21-7 29 0m-16 11 2 2"/>
+      <path d="m628 231 11 1-2 11" stroke-width="2.2"/>
+    </g>
+
+    <!-- mouse and cursor -->
+    <g stroke-width="2.7">
+      <path d="M546 325c0-17 13-30 29-30s29 13 29 30v42c0 17-13 28-29 28s-29-11-29-28v-42Z"/>
+      <path d="M575 296v24m-28-1h56m-31-23v7" stroke-width="2"/>
+      <path d="m636 300 18 38-13-5-6 13-7-3 6-13-12-3 14-27Z" stroke-width="2.4"/>
+    </g>
+
+    <!-- bar chart, idea spark and arrows -->
+    <g stroke-width="2.8">
+      <path d="M235 367v-23h18v23m9 0v-38h18v38m9 0v-54h18v54m-76 7h87"/>
+      <path d="m207 195 13-11 12 4m-12-4 1 13m319 106 15-12 15 2m-15-2 2 13"/>
+      <path d="M205 69v16m-8-8h16m293 283v13m-7-7h14m-424-95v13m-7-7h14" stroke-width="2.3"/>
+      <path d="M211 287c9-5 17-6 25-4m-9-7 10 7-9 7m324 83c11 3 21 3 31 0" stroke-width="2.1"/>
+    </g>
+    <g fill="#829477" stroke="none" opacity=".74">
+      <circle cx="212" cy="96" r="2.5"/><circle cx="231" cy="83" r="3"/><circle cx="485" cy="88" r="2.5"/>
+      <circle cx="208" cy="267" r="2"/><circle cx="508" cy="269" r="3"/><circle cx="514" cy="377" r="2.4"/>
+      <circle cx="54" cy="210" r="2.5"/><circle cx="653" cy="197" r="2.3"/>
+    </g>
+  </g>
+</svg>

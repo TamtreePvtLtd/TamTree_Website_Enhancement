@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 - <<'PY'\nfrom html\\.parser import HTMLParser\nfrom pathlib import Path\n\nclass Audit\\(HTMLParser\\):\n    def __init__\\(self\\): super\\(\\)\\.__init__\\(\\); self\\.ids=set\\(\\); self\\.links=\\[\\]\n    def handle_starttag\\(self, tag, attrs\\):\n        attrs=dict\\(attrs\\)\n        if attrs\\.get\\('id'\\): self\\.ids\\.add\\(attrs\\['id'\\]\\)\n        if tag=='a' and attrs\\.get\\('href',''\\)\\.startswith\\('#'\\): self\\.links\\.append\\(attrs\\['href'\\]\\[1:\\]\\)\n\nhtml=Path\\('index\\.html'\\)\\.read_text\\(\\); parser=Audit\\(\\); parser\\.feed\\(html\\); parser\\.close\\(\\)\ncss=Path\\('styles\\.css'\\)\\.read_text\\(\\)\nprint\\('HTML parsed: yes'\\)\nprint\\('Broken in-page links:', sorted\\(set\\(parser\\.links\\)-parser\\.ids-\\{''\\}\\) or 'none'\\)\nprint\\('CSS braces balanced:', css\\.count\\('\\{'\\) == css\\.count\\('\\}'\\)\\)\nprint\\('Local files present:', all\\(Path\\(name\\)\\.is_file\\(\\) for name in \\('styles\\.css','script\\.js'\\)\\)\\)\nprint\\('Cybersecurity/placement guarantee absent:', 'cybersecurity' not in html\\.lower\\(\\) and 'guaranteed' not in html\\.lower\\(\\)\\)\nprint\\('External font requests:', 'fonts\\.googleapis' in html or 'fonts\\.googleapis' in css\\)\nPY$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
